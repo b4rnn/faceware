@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -O3 -march=native -pthread -std=c++14 -ldl -lpthread -shared -Wl,-soname,libfacedetect.so -o libfacedetect.so CMakeFiles/facedetect.dir/include/MTCNN/mtcnn_opencv.cpp.o CMakeFiles/facedetect.dir/include/MTCNN/mtcnn.cpp.o   -L/usr/local/cuda-10.0/lib64 

@@ -1,0 +1,4 @@
+/home/i3d5mok3/Pictures/MVE/FACIALDETECTION/build/CMakeFiles/rebuild_cache.dir
+/home/i3d5mok3/Pictures/MVE/FACIALDETECTION/build/CMakeFiles/facedetect.dir
+/home/i3d5mok3/Pictures/MVE/FACIALDETECTION/build/CMakeFiles/edit_cache.dir
+/home/i3d5mok3/Pictures/MVE/FACIALDETECTION/build/CMakeFiles/FACIALDETECTION.dir

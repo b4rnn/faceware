@@ -1,0 +1,3 @@
+/home/i3d5mok3/Pictures/MVE/LIVECAM/build/CMakeFiles/rebuild_cache.dir
+/home/i3d5mok3/Pictures/MVE/LIVECAM/build/CMakeFiles/LIVEVIDEO.dir
+/home/i3d5mok3/Pictures/MVE/LIVECAM/build/CMakeFiles/edit_cache.dir
